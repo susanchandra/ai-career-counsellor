@@ -1,0 +1,50 @@
+{
+  "software_development": {
+    "keywords": ["coding", "programming", "software", "developer", "web", "app", "computer", "technology", "tech", "algorithm", "data", "structure", "python", "java", "javascript", "html", "css", "react", "node", "database"],
+    "description": "Software development involves designing, coding, testing, and maintaining computer programs and applications. It's a field that combines creativity with logical problem-solving.",
+    "skills": ["Programming languages", "Problem-solving", "Logical thinking", "Attention to detail", "Teamwork", "Communication"],
+    "education": ["Computer Science degree", "Software Engineering degree", "Coding bootcamp", "Self-taught with portfolio"]
+  },
+  "data_science": {
+    "keywords": ["data", "analysis", "analytics", "statistics", "machine", "learning", "ai", "artificial", "intelligence", "big", "data", "visualization", "python", "r", "sql", "tableau", "prediction", "model"],
+    "description": "Data Science combines statistics, mathematics, and programming to extract insights and knowledge from data. Data scientists analyze complex datasets to solve problems and inform decision-making.",
+    "skills": ["Statistical analysis", "Programming (Python/R)", "Machine learning", "Data visualization", "Problem-solving", "Communication"],
+    "education": ["Statistics degree", "Computer Science degree", "Mathematics degree", "Data Science bootcamp", "Specialized certifications"]
+  },
+  "graphic_design": {
+    "keywords": ["design", "art", "creative", "visual", "graphic", "illustration", "photoshop", "illustrator", "indesign", "typography", "layout", "color", "brand", "logo", "drawing", "sketch"],
+    "description": "Graphic designers create visual content to communicate messages. They design layouts, create visual elements, and work on branding to effectively convey ideas through visual media.",
+    "skills": ["Visual design", "Typography", "Color theory", "Adobe Creative Suite", "Creativity", "Attention to detail"],
+    "education": ["Graphic Design degree", "Fine Arts degree", "Design bootcamp", "Self-taught with portfolio"]
+  },
+  "marketing": {
+    "keywords": ["marketing", "advertising", "brand", "social", "media", "content", "seo", "sem", "campaign", "strategy", "market", "research", "consumer", "customer", "digital", "analytics"],
+    "description": "Marketing professionals promote products, services, and brands to potential customers. They develop strategies to increase awareness, engagement, and sales through various channels.",
+    "skills": ["Strategic thinking", "Communication", "Creativity", "Data analysis", "Social media management", "Content creation"],
+    "education": ["Marketing degree", "Business degree", "Communications degree", "Digital Marketing certifications"]
+  },
+  "healthcare": {
+    "keywords": ["health", "medical", "doctor", "nurse", "patient", "care", "hospital", "clinic", "therapy", "treatment", "medicine", "biology", "anatomy", "physiology", "diagnosis"],
+    "description": "Healthcare professionals provide medical services to individuals to maintain or improve their health. This field encompasses a wide range of roles from direct patient care to research and administration.",
+    "skills": ["Patient care", "Medical knowledge", "Empathy", "Communication", "Attention to detail", "Problem-solving"],
+    "education": ["Medical degree", "Nursing degree", "Allied health program", "Healthcare administration degree"]
+  },
+  "finance": {
+    "keywords": ["finance", "accounting", "investment", "banking", "money", "budget", "financial", "analysis", "stock", "market", "economy", "business", "tax", "audit", "risk", "management"],
+    "description": "Finance professionals manage money, investments, and financial systems. They analyze financial data, create reports, and develop strategies to optimize financial performance.",
+    "skills": ["Financial analysis", "Numerical aptitude", "Attention to detail", "Problem-solving", "Communication", "Ethical judgment"],
+    "education": ["Finance degree", "Accounting degree", "Business degree", "Economics degree", "Professional certifications (CFA, CPA)"]
+  },
+  "education": {
+    "keywords": ["teaching", "education", "teacher", "student", "school", "learning", "curriculum", "instruction", "classroom", "professor", "academic", "tutor", "knowledge", "pedagogy"],
+    "description": "Education professionals facilitate learning and development in various settings. They design curriculum, deliver instruction, and assess student progress to promote knowledge acquisition and skill development.",
+    "skills": ["Communication", "Patience", "Organization", "Adaptability", "Subject expertise", "Empathy"],
+    "education": ["Education degree", "Teaching certification", "Subject-specific degree", "Higher education degree for college-level teaching"]
+  },
+  "engineering": {
+    "keywords": ["engineering", "mechanical", "electrical", "civil", "chemical", "design", "build", "construct", "machine", "structure", "system", "technical", "physics", "mathematics"],
+    "description": "Engineers design, develop, and test solutions to technical problems. They apply scientific and mathematical principles to create products, systems, and structures that meet human needs.",
+    "skills": ["Technical knowledge", "Problem-solving", "Mathematical aptitude", "Attention to detail", "Teamwork", "Communication"],
+    "education": ["Engineering degree", "Applied Science degree", "Professional Engineering (PE) license"]
+  }
+}
