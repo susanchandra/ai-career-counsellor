@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="50" fill="#6C5CE7"/>
+  
+  <!-- Brain outline -->
+  <path d="M30,40 C30,30 40,25 50,25 C60,25 70,30 70,40 C70,50 65,55 65,65 L35,65 C35,55 30,50 30,40 Z" fill="white" stroke="#FF5757" stroke-width="2"/>
+  
+  <!-- Brain details -->
+  <path d="M50,25 C50,25 45,35 50,40 C55,45 60,40 60,35" fill="none" stroke="#FF5757" stroke-width="2"/>
+  <path d="M40,30 C40,30 35,35 40,40 C45,45 50,40 50,35" fill="none" stroke="#FF5757" stroke-width="2"/>
+  <path d="M60,40 C60,40 65,45 60,50 C55,55 50,50 50,45" fill="none" stroke="#FF5757" stroke-width="2"/>
+  <path d="M40,45 C40,45 35,50 40,55 C45,60 50,55 50,50" fill="none" stroke="#FF5757" stroke-width="2"/>
+  
+  <!-- Star accent -->
+  <polygon points="70,20 72,25 77,25 73,28 75,33 70,30 65,33 67,28 63,25 68,25" fill="#00D2D3"/>
+</svg>

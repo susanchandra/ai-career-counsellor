@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" width="500" height="300">
+  <!-- Star accent top left -->
+  <polygon points="70,30 75,45 90,45 80,55 85,70 70,60 55,70 60,55 50,45 65,45" fill="#FF5757"/>
+  
+  <!-- Main text: Elevate -->
+  <text x="85" y="150" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#6C5CE7">Elevate</text>
+  
+  <!-- Labs text -->
+  <text x="215" y="220" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#FF5757">Labs</text>
+  
+  <!-- Lab flask icon -->
+  <path d="M170,220 L150,270 L200,270 L180,220 L170,220 Z" fill="#6C5CE7"/>
+  <path d="M175,190 L175,220 L165,220 L165,190 Z" fill="#6C5CE7"/>
+  
+  <!-- Rocket icon -->
+  <path d="M155,240 C155,240 145,230 145,220 C145,210 155,200 165,200 C175,200 185,210 185,220 C185,230 175,240 175,240 L165,260 Z" fill="white" stroke="#6C5CE7" stroke-width="2"/>
+  
+  <!-- Star accent bottom right -->
+  <polygon points="370,220 375,235 390,235 380,245 385,260 370,250 355,260 360,245 350,235 365,235" fill="#6C5CE7"/>
+  
+  <!-- Circle accent -->
+  <circle cx="350" cy="150" r="40" fill="none" stroke="#00D2D3" stroke-width="8" opacity="0.5"/>
+</svg>
